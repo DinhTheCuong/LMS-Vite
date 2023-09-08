@@ -1,0 +1,29 @@
+/* .profile-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  padding: 20px;
+  background-color: white;
+}
+.Form-profile {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 3px;
+}
+.btn-changePassword {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  -ms-flex-align: center;
+  gap: 15px;
+  margin-top: 10px;
+}
+.camera {
+  position: absolute;
+  top: 100px;
+  left: 1085px;
+} */
